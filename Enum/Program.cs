@@ -31,21 +31,21 @@ namespace Enum
 
     enum Gunler 
     {
-        monday=1,
-        tuesday,
-        wednesday,
-        thursday,
-        friday,
-        saturday,
-        sunday
+        Monday = 1,
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday,
+        Sunday
 
     }
 
     enum HavaDurumu
     {
-        cold=5,
-        normal=20,
-        warm=25,
-        Hot=30
+        cold = 5,
+        normal = 20,
+        warm = 25,
+        Hot = 30
     }
 }
